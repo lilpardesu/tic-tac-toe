@@ -1,5 +1,3 @@
-// Cleaner version of the Tic-Tac-Toe game code
-
 // DOM Elements
 const gameStatus = document.querySelector(".game--status");
 const gameContainer = document.querySelector(".game--container");
